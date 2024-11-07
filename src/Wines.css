@@ -1,0 +1,20 @@
+.wines-section {
+  max-width: 1200px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.section-title {
+  margin-bottom: 20px;
+}
+
+.wines-section p {
+  margin-bottom: 40px;
+}
+
+/* Wine Cards Row */
+.wines-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
